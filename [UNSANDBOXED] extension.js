@@ -1,6 +1,6 @@
 // Name: Example
 // ID: replitexamplejs
-// Description: Example extension for Replit's "TurboWarp Extension (JS)" template (template by Monochromasity).
+// Description: Example extension for GitHub's "TW/PM Extension Template" (template by Monochromasity). (<--- remove this bit, dont remove this bit --->) Made using the TW/PM Extension Template by Monochromasity on GitHub.
 // By: You :)
 
 (function (Scratch) {
