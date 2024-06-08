@@ -2,7 +2,7 @@ Hello! If you are reading this, then that means you must be using the TW/PM Exte
 
 THIS TEMPLATE LETS YOU CREATE EXTENSIONS FOR ANY MODIFICATION OF SCRATCH, INCLUDING PENGUINMOD (penguinmod.com)
 
-Make sure to fork this repository to make your own extensions, then export your preferred extension.js file and make pull requests for the TurboWarp or PenguinMod Extension Galleries to get your extension added. Alternatively, you can make a pull request on the Scrandled GitHub page.
+Make sure to press "Use this template" to make your own extensions, then export your preferred extension.js file and make pull requests for the TurboWarp or PenguinMod Extension Galleries to get your extension added. Alternatively, you can make a pull request on the Scrandled GitHub page.
 
 :::: SANDBOXED v UNSANDBOXED ::::
 
